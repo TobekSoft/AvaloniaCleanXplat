@@ -1,4 +1,5 @@
-# avalonia-clean-xplat
+# Avalonia Clean Architecture Cross-Platform Template Specification
+## avalonia-clean-xplat
 
 An opinionated `dotnet new` template for Avalonia cross-platform applications following Clean Architecture principles.
 
