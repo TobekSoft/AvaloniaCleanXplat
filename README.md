@@ -119,10 +119,6 @@ dotnet add TodoApp.Domain.Tests package xunit.runner.visualstudio
 dotnet add TodoApp.Domain.Tests package FluentAssertions
 ```
 
-Popular options: **xUnit**, NUnit, MSTest · **NSubstitute**, Moq, FakeItEasy · **FluentAssertions**, Shouldly
-
----
-
 ## Packaging as a NuGet template
 
 ```
