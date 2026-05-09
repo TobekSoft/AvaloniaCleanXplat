@@ -455,27 +455,3 @@ A template that bakes in a test framework is making a choice on behalf of every 
 
 ---
 
-## Notes for Claude Code
-
-This document is the specification. Build the template from this, not from
-the official Avalonia cross-platform template structure. The official template
-is a parts donor for mobile plumbing only — Android and iOS bootstrapper
-boilerplate, platform manifests, asset catalogs. The architecture is this
-document.
-
-When generating the template:
-
-1. Start with Domain and work outward following the dependency graph
-2. Verify each project builds before moving to the next
-3. The four mobile entry points are nearly identical — build one, copy three,
-   adjust view locator registration in each
-4. MyApp.Views.Desktop exists solely to break the circular dependency between
-   Desktop, Browser, and their shared views — keep it thin
-5. `template.json` should implement `--no-api` and `--no-browser` as
-   conditional source inclusions using the `sources` and `modifiers` mechanism
-6. Avalonia version should be a template parameter so it can be updated
-   without editing every csproj manually
-7. The mobile bootstrapper plumbing (MainActivity, AppDelegate, Info.plist,
-   AndroidManifest.xml) should be sourced from a fresh Avalonia xplat template
-   at the current Avalonia version rather than hand-authored — get the
-   plumbing right, then reshape the architecture on top of it
