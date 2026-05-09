@@ -54,7 +54,6 @@ dotnet new avalonia-clean-xplat -n MyApp
 | `--NoBrowser`       | `false`  | Exclude `MyApp.Browser` (WASM target)                                |
 | `--AvaloniaVersion` | `12.0.2` | Avalonia package version across all projects                         |
 
-> **Note:** The template engine on .NET 10 uses PascalCase flag names. The spec intended `--no-api` / `--no-browser`; use `--NoApi` / `--NoBrowser` until a future SDK release resolves the mapping.
 
 ### Examples
 
