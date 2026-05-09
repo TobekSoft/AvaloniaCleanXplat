@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEV8XYYmp7k=",
+  "success": false,
+  "projectFilePath": "/home/greg/Code/AvaloniaCleanXplat/template/src/MyApp.iOS/MyApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/home/greg/.nuget/packages/microsoft.netcore.app.ref/10.0.2/microsoft.netcore.app.ref.10.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net10.0-ios",
+      "projectPath": "/home/greg/Code/AvaloniaCleanXplat/template/src/MyApp.iOS/MyApp.iOS.csproj",
+      "filePath": "/home/greg/Code/AvaloniaCleanXplat/template/src/MyApp.iOS/MyApp.iOS.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

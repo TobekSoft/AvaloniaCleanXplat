@@ -1,0 +1,184 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MyApp.Views.Desktop/1.0.0": {
+        "dependencies": {
+          "Avalonia": "12.0.2",
+          "Avalonia.Fonts.Inter": "12.0.2",
+          "Avalonia.Themes.Fluent": "12.0.2",
+          "MyApp.Application": "1.0.0",
+          "MyApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MyApp.Views.Desktop.dll": {}
+        }
+      },
+      "Avalonia/12.0.2": {
+        "dependencies": {
+          "Avalonia.Remote.Protocol": "12.0.2",
+          "MicroCom.Runtime": "0.11.4"
+        },
+        "runtime": {
+          "lib/net10.0/Avalonia.Base.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          },
+          "lib/net10.0/Avalonia.Controls.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          },
+          "lib/net10.0/Avalonia.DesignerSupport.dll": {
+            "assemblyVersion": "0.7.0.0",
+            "fileVersion": "0.7.0.0"
+          },
+          "lib/net10.0/Avalonia.Dialogs.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          },
+          "lib/net10.0/Avalonia.Markup.Xaml.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          },
+          "lib/net10.0/Avalonia.Markup.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          },
+          "lib/net10.0/Avalonia.Metal.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          },
+          "lib/net10.0/Avalonia.MicroCom.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          },
+          "lib/net10.0/Avalonia.OpenGL.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          },
+          "lib/net10.0/Avalonia.Vulkan.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          },
+          "lib/net10.0/Avalonia.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          }
+        }
+      },
+      "Avalonia.Fonts.Inter/12.0.2": {
+        "dependencies": {
+          "Avalonia": "12.0.2"
+        },
+        "runtime": {
+          "lib/net10.0/Avalonia.Fonts.Inter.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          }
+        }
+      },
+      "Avalonia.Remote.Protocol/12.0.2": {
+        "runtime": {
+          "lib/net10.0/Avalonia.Remote.Protocol.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          }
+        }
+      },
+      "Avalonia.Themes.Fluent/12.0.2": {
+        "dependencies": {
+          "Avalonia": "12.0.2"
+        },
+        "runtime": {
+          "lib/net10.0/Avalonia.Themes.Fluent.dll": {
+            "assemblyVersion": "12.0.2.0",
+            "fileVersion": "12.0.2.0"
+          }
+        }
+      },
+      "MicroCom.Runtime/0.11.4": {
+        "runtime": {
+          "lib/net5.0/MicroCom.Runtime.dll": {
+            "assemblyVersion": "0.11.4.0",
+            "fileVersion": "0.11.4.0"
+          }
+        }
+      },
+      "MyApp.Application/1.0.0": {
+        "dependencies": {
+          "MyApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MyApp.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyApp.Domain/1.0.0": {
+        "runtime": {
+          "MyApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyApp.Views.Desktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Avalonia/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-852xwfNNAUWE+aKWFackMALAKofcpKnM2g4PN8VKfxG1SO8Stlih7d6QFCbjQl46vuR9WBw/ZVGwn4Ovbj/oxQ==",
+      "path": "avalonia/12.0.2",
+      "hashPath": "avalonia.12.0.2.nupkg.sha512"
+    },
+    "Avalonia.Fonts.Inter/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2QEaZc52qqO3W58LfGkcV9V3lX4A6uyIt8zJaSb2ULyeyw9CwdLurJ/bwDcYO3M1dwV7LMDcqjOTuqCf8TIZ0Q==",
+      "path": "avalonia.fonts.inter/12.0.2",
+      "hashPath": "avalonia.fonts.inter.12.0.2.nupkg.sha512"
+    },
+    "Avalonia.Remote.Protocol/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mlKTvn0cAEQVkRMJunLzDNugZRbtZIksT5yu+XgcAlOvqTHGyZY+mGP+4/+1IwakZx9nrz6SGwI5yrzNT5g0TQ==",
+      "path": "avalonia.remote.protocol/12.0.2",
+      "hashPath": "avalonia.remote.protocol.12.0.2.nupkg.sha512"
+    },
+    "Avalonia.Themes.Fluent/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uEDLnrS7flCulIjWHnW6eiPiUqjxxAOh76suASMpQ0pJ+kntTEua5R1VcIulwZff79ArMqTVPejf7u0cxlVI2A==",
+      "path": "avalonia.themes.fluent/12.0.2",
+      "hashPath": "avalonia.themes.fluent.12.0.2.nupkg.sha512"
+    },
+    "MicroCom.Runtime/0.11.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yZ8+Lgwo+KtRI29TB2mIOEMzV+csMJ+pKZg4YHReAP3vRewWLKKeYfrBDo5FS69rWnEbCfU3sbM+ZEQr+GDLtg==",
+      "path": "microcom.runtime/0.11.4",
+      "hashPath": "microcom.runtime.0.11.4.nupkg.sha512"
+    },
+    "MyApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

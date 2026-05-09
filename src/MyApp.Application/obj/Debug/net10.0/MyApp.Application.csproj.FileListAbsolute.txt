@@ -1,0 +1,15 @@
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/bin/Debug/net10.0/MyApp.Application.deps.json
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/bin/Debug/net10.0/MyApp.Application.dll
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/bin/Debug/net10.0/MyApp.Application.pdb
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/bin/Debug/net10.0/MyApp.Domain.dll
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/bin/Debug/net10.0/MyApp.Domain.pdb
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/obj/Debug/net10.0/MyApp.Application.csproj.AssemblyReference.cache
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/obj/Debug/net10.0/MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/obj/Debug/net10.0/MyApp.Application.AssemblyInfoInputs.cache
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/obj/Debug/net10.0/MyApp.Application.AssemblyInfo.cs
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/obj/Debug/net10.0/MyApp.Application.csproj.CoreCompileInputs.cache
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/obj/Debug/net10.0/MyApp.Ap.B540CA8A.Up2Date
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/obj/Debug/net10.0/MyApp.Application.dll
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/obj/Debug/net10.0/refint/MyApp.Application.dll
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/obj/Debug/net10.0/MyApp.Application.pdb
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application/obj/Debug/net10.0/ref/MyApp.Application.dll

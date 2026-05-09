@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    "net10.0": {
+      "MyApp.Mobile/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/MyApp.Mobile.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyApp.Mobile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyApp.Mobile/1.0.0": {
+      "type": "project",
+      "path": "../MyApp.Mobile/MyApp.Mobile.csproj",
+      "msbuildProject": "../MyApp.Mobile/MyApp.Mobile.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net10.0": [
+      "MyApp.Mobile >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/greg/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/greg/Code/AvaloniaCleanXplat/template/src/MyApp.Mobile.Tests/MyApp.Mobile.Tests.csproj",
+      "projectName": "MyApp.Mobile.Tests",
+      "projectPath": "/home/greg/Code/AvaloniaCleanXplat/template/src/MyApp.Mobile.Tests/MyApp.Mobile.Tests.csproj",
+      "packagesPath": "/home/greg/.nuget/packages/",
+      "outputPath": "/home/greg/Code/AvaloniaCleanXplat/template/src/MyApp.Mobile.Tests/obj/",
+      "projectStyle": "PackageReference",
+      "centralPackageVersionsManagementEnabled": true,
+      "configFilePaths": [
+        "/home/greg/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net10.0"
+      ],
+      "sources": {
+        "/usr/lib/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net10.0": {
+          "targetAlias": "net10.0",
+          "projectReferences": {
+            "/home/greg/Code/AvaloniaCleanXplat/template/src/MyApp.Mobile/MyApp.Mobile.csproj": {
+              "projectPath": "/home/greg/Code/AvaloniaCleanXplat/template/src/MyApp.Mobile/MyApp.Mobile.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "net10.0": {
+        "targetAlias": "net10.0",
+        "centralPackageVersions": {
+          "Avalonia": "12.0.2",
+          "Avalonia.Android": "12.0.2",
+          "Avalonia.Browser": "12.0.2",
+          "Avalonia.Desktop": "12.0.2",
+          "Avalonia.Fonts.Inter": "12.0.2",
+          "Avalonia.iOS": "12.0.2",
+          "Avalonia.Themes.Fluent": "12.0.2",
+          "AvaloniaUI.DiagnosticsSupport": "2.2.1",
+          "CommunityToolkit.Mvvm": "8.4.0",
+          "Microsoft.EntityFrameworkCore": "9.0.0",
+          "Microsoft.EntityFrameworkCore.Sqlite": "9.0.0",
+          "Microsoft.EntityFrameworkCore.Tools": "9.0.0",
+          "sqlite-net-pcl": "1.9.172",
+          "Xamarin.AndroidX.Core.SplashScreen": "1.0.1.15"
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.107/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MyApp.Mobile is not compatible with net10.0 (.NETCoreApp,Version=v10.0). Project MyApp.Mobile supports:\n  - net10.0-android36.0 (.NETCoreApp,Version=v10.0)\n  - net10.0-ios (.NETCoreApp,Version=v10.0)",
+      "libraryId": "MyApp.Mobile",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

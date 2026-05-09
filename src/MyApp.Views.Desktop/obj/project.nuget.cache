@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9yht0ZAW3Gs=",
+  "success": true,
+  "projectFilePath": "/home/greg/Code/AvaloniaCleanXplat/template/src/MyApp.Views.Desktop/MyApp.Views.Desktop.csproj",
+  "expectedPackageFiles": [
+    "/home/greg/.nuget/packages/avalonia/12.0.2/avalonia.12.0.2.nupkg.sha512",
+    "/home/greg/.nuget/packages/avalonia.buildservices/11.3.2/avalonia.buildservices.11.3.2.nupkg.sha512",
+    "/home/greg/.nuget/packages/avalonia.fonts.inter/12.0.2/avalonia.fonts.inter.12.0.2.nupkg.sha512",
+    "/home/greg/.nuget/packages/avalonia.remote.protocol/12.0.2/avalonia.remote.protocol.12.0.2.nupkg.sha512",
+    "/home/greg/.nuget/packages/avalonia.themes.fluent/12.0.2/avalonia.themes.fluent.12.0.2.nupkg.sha512",
+    "/home/greg/.nuget/packages/microcom.runtime/0.11.4/microcom.runtime.0.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

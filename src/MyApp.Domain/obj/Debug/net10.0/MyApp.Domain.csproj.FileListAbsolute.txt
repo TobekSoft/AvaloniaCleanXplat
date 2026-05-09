@@ -1,0 +1,11 @@
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Domain/bin/Debug/net10.0/MyApp.Domain.deps.json
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Domain/bin/Debug/net10.0/MyApp.Domain.dll
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Domain/bin/Debug/net10.0/MyApp.Domain.pdb
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Domain/obj/Debug/net10.0/MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Domain/obj/Debug/net10.0/MyApp.Domain.AssemblyInfoInputs.cache
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Domain/obj/Debug/net10.0/MyApp.Domain.AssemblyInfo.cs
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Domain/obj/Debug/net10.0/MyApp.Domain.csproj.CoreCompileInputs.cache
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Domain/obj/Debug/net10.0/MyApp.Domain.dll
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Domain/obj/Debug/net10.0/refint/MyApp.Domain.dll
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Domain/obj/Debug/net10.0/MyApp.Domain.pdb
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Domain/obj/Debug/net10.0/ref/MyApp.Domain.dll

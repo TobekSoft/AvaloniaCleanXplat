@@ -1,0 +1,16 @@
+Images, layout descriptions, binary blobs and string dictionaries can be stored in
+this directory (and sub directories) and will be incorporated into your application
+as managed resources.  Android resource IDs will be assigned to each file.
+
+Android assets are traditional files.  Each file is deployed as-is to the
+temporary files on the Android device.
+
+To use these files at runtime, use the Assets class in the Android.Content.Res namespace:
+
+    Android.Content.Res.AssetManager assets = this.Assets;
+    using (System.IO.StreamReader sr = new System.IO.StreamReader (assets.Open ("YourFile.txt")))
+    {
+        while (str = sr.ReadLine ()) != null) {
+            // do something with str
+        }
+    }

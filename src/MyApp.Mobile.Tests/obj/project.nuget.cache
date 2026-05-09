@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yu3p/nJkxFs=",
+  "success": false,
+  "projectFilePath": "/home/greg/Code/AvaloniaCleanXplat/template/src/MyApp.Mobile.Tests/MyApp.Mobile.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MyApp.Mobile is not compatible with net10.0 (.NETCoreApp,Version=v10.0). Project MyApp.Mobile supports:\n  - net10.0-android36.0 (.NETCoreApp,Version=v10.0)\n  - net10.0-ios (.NETCoreApp,Version=v10.0)",
+      "projectPath": "/home/greg/Code/AvaloniaCleanXplat/template/src/MyApp.Mobile.Tests/MyApp.Mobile.Tests.csproj",
+      "filePath": "/home/greg/Code/AvaloniaCleanXplat/template/src/MyApp.Mobile.Tests/MyApp.Mobile.Tests.csproj",
+      "libraryId": "MyApp.Mobile",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

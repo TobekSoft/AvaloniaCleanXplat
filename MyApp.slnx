@@ -1,0 +1,37 @@
+<Solution>
+  <Project Path="src/MyApp.Domain/MyApp.Domain.csproj" />
+  <Project Path="src/MyApp.Application/MyApp.Application.csproj" />
+<!--#if (!NoApi)-->
+  <Project Path="src/MyApp.Infrastructure/MyApp.Infrastructure.csproj" />
+  <Project Path="src/MyApp.API/MyApp.API.csproj" />
+<!--#endif-->
+
+  <Project Path="src/MyApp.Desktop/MyApp.Desktop.csproj" />
+  <Project Path="src/MyApp.Views.Desktop/MyApp.Views.Desktop.csproj" />
+<!--#if (!NoBrowser)-->
+  <Project Path="src/MyApp.Browser/MyApp.Browser.csproj" />
+<!--#endif-->
+
+  <Project Path="src/MyApp.Mobile/MyApp.Mobile.csproj" />
+  <Project Path="src/MyApp.Android.Phone/MyApp.Android.Phone.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="src/MyApp.Android.Tablet/MyApp.Android.Tablet.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="src/MyApp.iOS/MyApp.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="src/MyApp.iPadOS/MyApp.iPadOS.csproj">
+    <Deploy />
+  </Project>
+
+  <Project Path="src/MyApp.Domain.Tests/MyApp.Domain.Tests.csproj" />
+  <Project Path="src/MyApp.Application.Tests/MyApp.Application.Tests.csproj" />
+<!--#if (!NoApi)-->
+  <Project Path="src/MyApp.Infrastructure.Tests/MyApp.Infrastructure.Tests.csproj" />
+  <Project Path="src/MyApp.API.Tests/MyApp.API.Tests.csproj" />
+<!--#endif-->
+  <Project Path="src/MyApp.Desktop.Tests/MyApp.Desktop.Tests.csproj" />
+  <Project Path="src/MyApp.Mobile.Tests/MyApp.Mobile.Tests.csproj" />
+</Solution>

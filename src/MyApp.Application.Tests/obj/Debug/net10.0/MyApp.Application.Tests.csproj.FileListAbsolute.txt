@@ -1,0 +1,17 @@
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/bin/Debug/net10.0/MyApp.Application.Tests.deps.json
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/bin/Debug/net10.0/MyApp.Application.Tests.dll
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/bin/Debug/net10.0/MyApp.Application.Tests.pdb
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/bin/Debug/net10.0/MyApp.Application.dll
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/bin/Debug/net10.0/MyApp.Domain.dll
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/bin/Debug/net10.0/MyApp.Application.pdb
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/bin/Debug/net10.0/MyApp.Domain.pdb
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/obj/Debug/net10.0/MyApp.Application.Tests.csproj.AssemblyReference.cache
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/obj/Debug/net10.0/MyApp.Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/obj/Debug/net10.0/MyApp.Application.Tests.AssemblyInfoInputs.cache
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/obj/Debug/net10.0/MyApp.Application.Tests.AssemblyInfo.cs
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/obj/Debug/net10.0/MyApp.Application.Tests.csproj.CoreCompileInputs.cache
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/obj/Debug/net10.0/MyApp.Ap.E73907FC.Up2Date
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/obj/Debug/net10.0/MyApp.Application.Tests.dll
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/obj/Debug/net10.0/refint/MyApp.Application.Tests.dll
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/obj/Debug/net10.0/MyApp.Application.Tests.pdb
+/home/greg/Code/AvaloniaApplication4/template/src/MyApp.Application.Tests/obj/Debug/net10.0/ref/MyApp.Application.Tests.dll
