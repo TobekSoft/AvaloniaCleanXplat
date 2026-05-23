@@ -137,4 +137,4 @@ dotnet new install bin/Release/AvaloniaCleanXplat.Templates.1.0.0.nupkg
 
 ## Licence
 
-AGPL-3.0-only. See [LICENCE](LICENCE).
+MIT Licence. See [LICENCE](LICENCE).
